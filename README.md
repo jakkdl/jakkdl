@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Looking for work 👋
+[Resume](https://github.com/jakkdl/resume/raw/main/john_litborn_resume.pdf)
 <!--
 **jakkdl/jakkdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
