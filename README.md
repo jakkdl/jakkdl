@@ -1,6 +1,14 @@
 ### ✨ Looking for work ✨
 * [Resume](https://github.com/jakkdl/resume/raw/main/john_litborn_resume.pdf)  
 * [LinkedIn](https://www.linkedin.com/in/john-litborn-6a2a36139/)
+
+Open-Source contributions:
+https://github.com/Zac-HD/flake8-trio
+
+https://github.com/PyCQA/flake8-bugbear/pull/274
+https://github.com/ethereum/py-evm/pull/290
+https://github.com/pytest-dev/pytest/pull/10209
+
 <!--
 **jakkdl/jakkdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
