@@ -17,6 +17,9 @@
 
 Number in brackets indicate number of pull requests, link goes to filtered PR list. Updated 2022-11-29
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakkdl&theme=github_dark) 
+
 <!--
 * [7] [flake8-bugbear](https://github.com/PyCQA/flake8-bugbear/pulls?q=is%3Apr+author%3A%40me)![GitHub Repo stars](https://img.shields.io/github/stars/PyCQA/flake8-bugbear?style=flat)
 * [4] [shed](https://github.com/Zac-HD/shed/pulls?q=is%3Apr+author%3A%40me) ![GitHub Repo stars](https://img.shields.io/github/stars/Zac-HD/shed?style=flat)
