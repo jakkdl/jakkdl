@@ -1,4 +1,4 @@
-### ✨ Looking for work ✨
+### ✨ Freelance Software Engineer ✨
 * [Resume](https://github.com/jakkdl/resume/raw/main/john_litborn_resume.pdf)  
 * [LinkedIn](https://www.linkedin.com/in/john-litborn-6a2a36139/)
 
