@@ -7,17 +7,18 @@
 <!-- * Owner of :bird: [@necro_score_bot](https://twitter.com/necro_score_bot) :robot: [[source]](https://github.com/jakkdl/necro_score_bot) -->
 * My [Arch Linux dotfiles](https://github.com/jakkdl/dotfiles) 🐧
 
-#### Other Open Source contributions
+#### Selected Open Source contributions
 [![](https://img.shields.io/github/issues-search?label=python-trio/trio%20PRs&query=is%3Apr%20author%3Ajakkdl%20repo%3Apython-trio%2Ftrio)](https://github.com/python-trio/trio/pulls?q=is%3Apr+author%3Ajakkdl) ![](https://img.shields.io/github/stars/python-trio/trio?style=flat&label=stars&color=yellow)  
 [![](https://img.shields.io/github/issues-search?label=PyCQA/flake8-bugbear%20PRs&query=is%3Apr%20author%3Ajakkdl%20repo%3APyCQA%2Fflake8-bugbear)](https://github.com/PyCQA/flake8-bugbear/pulls?q=is%3Apr+author%3Ajakkdl) ![](https://img.shields.io/github/stars/PyCQA/flake8-bugbear?style=flat&label=stars&color=yellow)  
 [![](https://img.shields.io/github/issues-search?label=Zac-HD/shed%20PRs&query=is%3Apr%20author%3Ajakkdl%20repo%3AZac-HD%2Fshed)](https://github.com/Zac-HD/shed/pulls?q=is%3Apr+author%3Ajakkdl) ![](https://img.shields.io/github/stars/Zac-HD/shed?style=flat&label=stars&color=yellow)  
 [![](https://img.shields.io/github/issues-search?label=psf/black%20PRs&query=is%3Apr%20author%3Ajakkdl%20repo%3Apsf%2Fblack)](https://github.com/psf/black/pulls?q=is%3Apr+author%3Ajakkdl) ![](https://img.shields.io/github/stars/psf/black?style=flat&label=stars&color=yellow)  
 [![](https://img.shields.io/github/issues-search?label=pytest-dev/pytest%20PRs&query=is%3Apr%20author%3Ajakkdl%20repo%3Apytest-dev%2Fpytest)](https://github.com/pytest-dev/pytest/pulls?q=is%3Apr+author%3Ajakkdl) ![](https://img.shields.io/github/stars/pytest-dev/pytest?style=flat&label=stars&color=yellow)  
+<!--
 [![](https://img.shields.io/github/issues-search?label=JelleZijlstra/autotyping%20PRs&query=is%3Apr%20author%3Ajakkdl%20repo%3AJelleZijlstra/autotyping)](https://github.com/JelleZijlstra/autotyping/pulls?q=is%3Apr+author%3Ajakkdl) ![](https://img.shields.io/github/stars/JelleZijlstra/autotyping?style=flat&label=stars&color=yellow)  
 [![](https://img.shields.io/github/issues-search?label=ethereum/py-evm%20PRs&query=is%3Apr%20author%3Ajakkdl%20repo%3Aethereum%2Fpy-evm)](https://github.com/ethereum/py-evm/pulls?q=is%3Apr+author%3Ajakkdl) ![](https://img.shields.io/github/stars/ethereum/py-evm?style=flat&label=stars&color=yellow)  
 [![](https://img.shields.io/github/issues-search?label=sysid/sse-starlette%20PRs&query=is%3Apr%20author%3Ajakkdl%20repo%3Asysid%2Fsse-starlette)](https://github.com/sysid/sse-starlette/pulls?q=is%3Apr+author%3Ajakkdl) ![](https://img.shields.io/github/stars/sysid/sse-starlette?style=flat&label=stars&color=yellow)  
 [![](https://img.shields.io/github/issues-search?label=snok/flake8-type-checking%20PRs&query=is%3Apr%20author%3Ajakkdl%20repo%3Asnok/flake8-type-checking)](https://github.com/snok/flake8-type-checking/pulls?q=is%3Apr+author%3Ajakkdl) ![](https://img.shields.io/github/stars/snok/flake8-type-checking?style=flat&label=stars&color=yellow)  
-
+-->
  
 
 <!--
