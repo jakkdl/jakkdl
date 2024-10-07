@@ -1,7 +1,5 @@
 ### ✨ Freelance Software Engineer ✨
 * [Resume](https://github.com/jakkdl/resume/raw/main/john_litborn_resume.pdf)  
-* [LinkedIn](https://www.linkedin.com/in/john-litborn-6a2a36139/)
-
 
 * Main developer on [Flake8-Async](https://github.com/python-trio/flake8-async)
 <!-- * Owner of :bird: [@necro_score_bot](https://twitter.com/necro_score_bot) :robot: [[source]](https://github.com/jakkdl/necro_score_bot) -->
