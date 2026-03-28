@@ -1,4 +1,4 @@
-### ✨ Freelance Software Engineer ✨
+### ✨ Python Engineer ✨
 * [Resume](https://github.com/jakkdl/resume/raw/main/john_litborn_resume.pdf)  
 * Main developer on [Flake8-Async](https://github.com/python-trio/flake8-async)
 * [Arch Linux dotfiles](https://github.com/jakkdl/dotfiles) 🐧
@@ -31,7 +31,10 @@ for (group,repo) in (
 -->
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakkdl&theme=github_dark) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakkdl&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakkdl&theme=github" alt="GitHub stats">
+</picture>
 
 <!--
 * [7] [flake8-bugbear](https://github.com/PyCQA/flake8-bugbear/pulls?q=is%3Apr+author%3A%40me)![GitHub Repo stars](https://img.shields.io/github/stars/PyCQA/flake8-bugbear?style=flat)
